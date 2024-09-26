@@ -1,0 +1,130 @@
+[
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.7\\com.example.constraintlayout.app-debug-31:\\drawable_icon_email.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.7\\com.example.constraintlayout.app-main-33:\\drawable\\icon_email.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.7\\com.example.constraintlayout.app-debug-31:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.7\\com.example.constraintlayout.app-main-33:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.constraintlayout.app-debug-31:/layout_activity_register.xml.flat",
+        "source": "com.example.constraintlayout.app-main-33:/layout/activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.7\\com.example.constraintlayout.app-debug-31:\\drawable_icon_password.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.7\\com.example.constraintlayout.app-main-33:\\drawable\\icon_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.7\\com.example.constraintlayout.app-debug-31:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.7\\com.example.constraintlayout.app-main-33:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.7\\com.example.constraintlayout.app-debug-31:\\drawable_facebook_logo.png.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.7\\com.example.constraintlayout.app-main-33:\\drawable\\facebook_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.7\\com.example.constraintlayout.app-debug-31:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.7\\com.example.constraintlayout.app-main-33:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.7\\com.example.constraintlayout.app-debug-31:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.7\\com.example.constraintlayout.app-main-33:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.7\\com.example.constraintlayout.app-debug-31:\\drawable_input_bg.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.7\\com.example.constraintlayout.app-main-33:\\drawable\\input_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.7\\com.example.constraintlayout.app-debug-31:\\drawable_ic_android_black_24dp.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.7\\com.example.constraintlayout.app-main-33:\\drawable\\ic_android_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.7\\com.example.constraintlayout.app-debug-31:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.7\\com.example.constraintlayout.app-main-33:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.7\\com.example.constraintlayout.app-debug-31:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.7\\com.example.constraintlayout.app-main-33:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.7\\com.example.constraintlayout.app-debug-31:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.7\\com.example.constraintlayout.app-main-33:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.7\\com.example.constraintlayout.app-debug-31:\\drawable_google_logo.png.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.7\\com.example.constraintlayout.app-main-33:\\drawable\\google_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.7\\com.example.constraintlayout.app-debug-31:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.7\\com.example.constraintlayout.app-main-33:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.7\\com.example.constraintlayout.app-debug-31:\\drawable_icons8_google.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.7\\com.example.constraintlayout.app-main-33:\\drawable\\icons8_google.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.7\\com.example.constraintlayout.app-debug-31:\\drawable_icons8_facebook.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.7\\com.example.constraintlayout.app-main-33:\\drawable\\icons8_facebook.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.7\\com.example.constraintlayout.app-debug-31:\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.7\\com.example.constraintlayout.app-main-33:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.7\\com.example.constraintlayout.app-debug-31:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.7\\com.example.constraintlayout.app-main-33:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.7\\com.example.constraintlayout.app-debug-31:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.7\\com.example.constraintlayout.app-main-33:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.7\\com.example.constraintlayout.app-debug-31:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.7\\com.example.constraintlayout.app-main-33:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.7\\com.example.constraintlayout.app-debug-31:\\drawable_background.jpg.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.7\\com.example.constraintlayout.app-main-33:\\drawable\\background.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.7\\com.example.constraintlayout.app-debug-31:\\drawable_btn_bg.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.7\\com.example.constraintlayout.app-main-33:\\drawable\\btn_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.7\\com.example.constraintlayout.app-debug-31:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.7\\com.example.constraintlayout.app-main-33:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.7\\com.example.constraintlayout.app-debug-31:\\drawable_icon_person.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.7\\com.example.constraintlayout.app-main-33:\\drawable\\icon_person.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.7\\com.example.constraintlayout.app-debug-31:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.7\\com.example.constraintlayout.app-main-33:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.7\\com.example.constraintlayout.app-debug-31:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.7\\com.example.constraintlayout.app-main-33:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.7\\com.example.constraintlayout.app-debug-31:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.7\\com.example.constraintlayout.app-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.7\\com.example.constraintlayout.app-debug-31:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.7\\com.example.constraintlayout.app-main-33:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.7\\com.example.constraintlayout.app-debug-31:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.7\\com.example.constraintlayout.app-main-33:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.7\\com.example.constraintlayout.app-debug-31:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.7\\com.example.constraintlayout.app-main-33:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.constraintlayout.app-debug-31:/layout_activity_login.xml.flat",
+        "source": "com.example.constraintlayout.app-main-33:/layout/activity_login.xml"
+    }
+]
