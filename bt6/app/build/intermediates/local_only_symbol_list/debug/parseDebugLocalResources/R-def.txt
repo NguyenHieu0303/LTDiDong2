@@ -1,0 +1,23 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable bk1
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id btn_save
+id cb_sound_effect
+id cb_volume
+id ll_settings
+id sb_sound_effect
+id sb_volume
+id toolbar
+id tv_student_info
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.SharedPreferences_ThayHuy
+style Theme.SharedPreferences_ThayHuy
+xml backup_rules
+xml data_extraction_rules
