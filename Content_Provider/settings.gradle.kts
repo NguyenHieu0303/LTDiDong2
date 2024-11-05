@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Content_Provider"
+rootProject.name = "content_provider"
 include(":app")
  
